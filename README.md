@@ -19,9 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/harsh-shrivastava-7b5122228/)"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="[https://leetcode.com/your-leetcode/](https://leetcode.com/u/Trying_To_Do_Better/)"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="your-leetcode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/harsh-shrivastava-7b5122228/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Trying_To_Do_Better/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
