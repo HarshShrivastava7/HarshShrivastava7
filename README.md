@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **[shrivastavaharsh969@gmail.com](mailto:shrivastavaharsh969@gmail.com)**
   
-- 🌐 Visit my portfolio: **[https://your-portfolio-link.com](https://portfolio-rosy-ten-14.vercel.app/)**
+- 🌐 Visit my portfolio: **[Portfolio](https://portfolio-rosy-ten-14.vercel.app/)**
 
 ---
 
