@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Shrivastava</h1>
 <h3 align="center">A passionate Full Stack Developer and Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshShrivastava7&label=Profile%20views&color=0e75b6&style=flat" alt="HarshShrivastava7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="your-github-username" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarshShrivastava7" alt="HarshShrivastava7" /></a> </p>
 
 - 🔭 I’m currently working on **Credit Risk Modeling, Full Stack Projects**
 
@@ -38,8 +38,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="your-github-username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshShrivastava7&show_icons=true&locale=en&layout=compact" alt="HarshShrivastava7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshShrivastava7&show_icons=true&locale=en" alt="HarshShrivastava7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshShrivastava7&" alt="HarshShrivastava7" /></p>
